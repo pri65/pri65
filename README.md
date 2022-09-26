@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanka-soni-836a121b7/" target="blank">
+<a href="https://www.linkedin.com/in/priyankasoni04/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhra-kanti-ghosh-047247ab" height="30" width="40" />
   </a>
 </p>
