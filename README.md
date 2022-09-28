@@ -44,16 +44,17 @@
 
 <h3 align="left">Github Stats:</h3>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pri65&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="priyankasoni" /></p>
-
-<p align="center">
-    <a href="https://github.com/pri65/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pri65&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/pri65/github-readme-stats"><img alt="Priyanka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pri65&show_icons=true&count_private=true&show_owner=ture&theme=react&hide_border=true&bg_color=0,000000,190F40,190F40" /></a>
-    </p>
+<div>
+ 
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=pri65&theme=dark&border_radius=10" alt="priyankasoni" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pri65&show_icons=true&theme=dark&border_radus=10" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri65&theme=dark&langs_count=8&border_radus=10" alt="priyankasoni" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pri65&theme=dark&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+<div>
  
 
 <p align="center">
