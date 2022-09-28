@@ -1,4 +1,4 @@
-![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Priyanka Soni</h1>
