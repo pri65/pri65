@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
- <a href="https://serene-churros-e2186d.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="priyankasoni04" /></a>
+ <a href="https://venerable-longma-5f944b.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="priyankasoni04" /></a>
 <a href="https://www.linkedin.com/in/priyankasoni04/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="priyankasoni04"  /></a>  
 
 </p>
