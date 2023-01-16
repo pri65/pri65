@@ -8,14 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pri65&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka Soni" /> </p>
 
+## I'm interested in job offers! 🏢 🏃‍♂️💨
 
-<h3 align="left">Connect with me:</h3>
-<hr>
-<p align="left">
- <a href="https://venerable-longma-5f944b.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="priyankasoni04" /></a>
-<a href="https://www.linkedin.com/in/priyankasoni04/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="priyankasoni04"  /></a>  
+If you'd like me to come work on one of your projects, you can reach me on:
 
-</p>
+- [![Linkedin Badge](https://img.shields.io/badge/-Priyanka%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyankasoni04/)](https://www.linkedin.com/in/priyankasoni04)
+- [My Portfolio Page](https://venerable-longma-5f944b.netlify.app/)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
@@ -49,9 +48,9 @@
 <div>
   </br>
   
-<p align="center">
+<!-- <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
+ </p> -->
 
 
 ### Cheers and Happy hacking! 😁👍💻
