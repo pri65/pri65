@@ -15,10 +15,8 @@ If you'd like me to come work on one of your projects, you can reach me on:
 - [![Linkedin Badge](https://img.shields.io/badge/-Priyanka%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyankasoni04/)](https://www.linkedin.com/in/priyankasoni04)
 - [My Portfolio Page](https://venerable-longma-5f944b.netlify.app/)
 
-
 <h3 align="left">Languages and Tools:</h3>
-<hr>
-  
+<hr>  
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
@@ -36,21 +34,10 @@ If you'd like me to come work on one of your projects, you can reach me on:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 <br/>
-  <br />
-  <br />
 
 <h3 align="center">Github Stats:</h3>
 <hr>
 <div align="center">
- 
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pri65&theme=dark&border_radius=10" alt="priyankasoni" height="250px" width="47%" />
-  
 <div>
-  </br>
-  
-<!-- <p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p> -->
-
-
 ### Cheers and Happy hacking! 😁👍💻
