@@ -40,4 +40,5 @@ If you'd like me to come work on one of your projects, you can reach me on:
 <div align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pri65&theme=dark&border_radius=10" alt="priyankasoni" height="250px" width="47%" />
 <div>
-### Cheers and Happy hacking! 😁👍💻
+  <strong>### Cheers and Happy hacking!</strong> 😁👍💻
+
