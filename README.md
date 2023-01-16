@@ -42,7 +42,7 @@
 
 <h3 align="center">Github Stats:</h3>
 <hr>
-<div align="center>
+<div align="center">
  
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pri65&theme=dark&border_radius=10" alt="priyankasoni" height="250px" width="47%" />
   
