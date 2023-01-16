@@ -44,17 +44,11 @@
 <hr>
 <div>
  
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=pri65&theme=dark&border_radius=10" alt="priyankasoni" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pri65&show_icons=true&theme=dark&border_radus=10" height="255px" width="47%"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pri65&theme=dark&border_radius=10" alt="priyankasoni" height="250px" width="47%" />
+  
 <div>
   </br>
   
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pri65&theme=dark&langs_count=8&border_radus=10" alt="priyankasoni" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pri65&theme=dark&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
-<div>
- 
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
