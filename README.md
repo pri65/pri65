@@ -13,7 +13,7 @@
 If you'd like me to come work on one of your projects, you can reach me on:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Priyanka%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyankasoni04/)](https://www.linkedin.com/in/priyankasoni04)
-- [My Portfolio Page](https://venerable-longma-5f944b.netlify.app/)
+- [My Portfolio Page](https://priyanka-soni-portfolio1.netlify.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>  
